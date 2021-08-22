@@ -1,1 +1,1 @@
-Ade Bucod
+Gwapo si Ade Bucod
