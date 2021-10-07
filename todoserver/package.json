@@ -4,6 +4,22 @@
   "description": "todo app",
   "main": "index.js",
   "scripts": {
+    "delete_todo": "node customer/dbdelete_customer.js",
+    "update_todo": "node customer/dbupdate_customer.js",
+    "insert_todo": "node customer/dbinsert_customer.js",
+    "select_todo": "node customer/dbselect_customer.js",
+
+    "delete_todo2": "node film/dbdelete_film.js",
+    "update_todo2": "node film/dbupdate_film.js",
+    "insert_todo2": "node film/dbinsert_film.js",
+    "select_todo2": "node film/dbselect_film.js",
+
+    "delete_todo3": "node rental/dbdelete_rental.js",
+    "update_todo3": "node rental/dbupdate_rental.js",
+    "insert_todo3": "node rental/dbinsert_rental.js",
+    "select_todo3": "node rental/dbselect_rental.js",
+
+
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
